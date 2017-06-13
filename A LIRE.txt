@@ -1,0 +1,8 @@
+copier et remplacer le fichier " languages.cfg " dans 
+
+x:\Program Files\Zombie Driver\Release
+
+
+
+----------------------
+TraductionJeux.com
